@@ -2,8 +2,7 @@
 
 Hi, I'm Felicia 👋
 
-Finance and analytics professional with experience in FP&A, performance reporting, variance analysis, and process improvement. I leverage these tools and my strong business background to turn complex financial data into clear dashboards, performance insights, and decision ready tools!
-- Skilled in MS Excel, SQL, and Power BI data visualization (including Power Query,PowerPivot and DAX).  
+Finance and analytics professional with experience in FP&A, performance reporting, variance analysis, and process improvement. I leverage SQL, MS Excel, and Power BI (including Power Query,PowerPivot and DAX) to turn complex financial data into clear dashboards, performance insights, and decision-ready reporting tools.
 
 ## Featured Projects
 **Course Dashboard - KPI Monitoring**
