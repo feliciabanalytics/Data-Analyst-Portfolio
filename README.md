@@ -7,11 +7,11 @@ Finance and analytics professional with experience in FP&A, performance reportin
 - Skilled in MS Excel, SQL, and Power BI data visualization (including Power Query,PowerPivot and DAX).  
 
 # Featured Projects
-**Course Dashboard**
-Power BI | DAX | KPI Tracking
+**Course Dashboard - KPI Monitoring**
+Power BI | DAX | KPI Tracking | Guided Project 
 
-Interactive BI dashboard monitoring company performance KPIs. Tracks revenue, profit, customer demographics, and product details. Enables executive managment to identify top performing products, analyze price change impacts on profitability 
-Power BI(-)DAX(-)KPI Tracking
+Interactive BI dashboard built during the MS Power BI Desktop for Business Intelligence course offered by Maven Analytics. Tracks revenue, profit, customer demographics, and product details. Enables executive managment to identify top performing products, analyze price change impacts on profitability 
+
 
 # Technical Profiency
 **Languages**: SQL, DAX
