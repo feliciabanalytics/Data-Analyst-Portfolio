@@ -17,7 +17,7 @@ Interactive BI dashboard built as part of the  Power BI Desktop course offered b
 
 **Tools**: MS Excel, Power BI, Power Pivot, Pivot Tables
 
-**Skills**: Data Cleansing & Transformation (ETL) , Data Modeling,  KPI Tracking, Variance Analysis
+**Skills**: Data Cleansing & Transformation (ETL) , Data Modeling,  Performance Reporting, Variance Analysis
 
 ## Find Me
 Email: Feliciabiancabenjamin@gmail.com | LinkedIn: www.linkedin.com/in/felicia-benjamin
